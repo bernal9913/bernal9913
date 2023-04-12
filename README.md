@@ -17,7 +17,7 @@
 <ul>
     <li>Still studing at Univerity of Sonora</li>
     <li>Currently still learning a lot of things</li>
-    <li>Right now, i'm learning iOS mobile development and cross-platform apps<li>
+    <li>Right now, i'm learning iOS mobile development and cross-platform apps</li>
 </ul>
 <h3>My tools, technologies and experience</h3>
 <p><b>Technologies:</b> Kotlin, Java, Python, C, C++, C#, HTML5, JS, JSON, PHP and MySQL</p>
@@ -28,6 +28,6 @@
 
 
 <div align="right">
-    <p>last updated: March 4th, 2023 at HMO 🤠</p>
+    <p>last updated: April 11th, 2023 at HMO 🤠</p>
 </div>
 
