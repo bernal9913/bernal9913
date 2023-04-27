@@ -20,14 +20,14 @@
     <li>Right now, i'm learning iOS mobile development and cross-platform apps</li>
 </ul>
 <h3>My tools, technologies and experience</h3>
-<p><b>Technologies:</b> Kotlin, Java, Python, C, C++, C#, HTML5, JS, JSON, PHP and MySQL</p>
-<p><b>Tools:</b> PyCharm, Intellij, Android Studio, VScode and Git based systems</p>
+<p><b>Technologies:</b> Kotlin, Java, Python, C, C++, C#, HTML5, JS, JSON, React, PHP, MySQL and MongoDB</p>
+<p><b>Tools:</b> PyCharm, Intellij, Android Studio, WebStorm, VScode and Git based systems</p>
 <p><b>Relatable experinces:</b> Android custom roms testing experience(most of the case AOSP and MIUI based roms)</p>
 <p><b>Languages:</b> Native spanish speaker, english (conversational level (around b2-c1)), learning german and super basic french and italian</p>
 
 
 
 <div align="right">
-    <p>last updated: April 11th, 2023 at HMO 🤠</p>
+    <p>last updated: April 27th, 2023 at HMO 🤠</p>
 </div>
 
