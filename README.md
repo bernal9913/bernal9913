@@ -1,6 +1,6 @@
 <h2 align="center" >Welcome / Bienvenido</h2>
 <h3 align="center" >👨🏻‍🎓Software engineer student and future mobile app developer🚀</h3>
-<h3 align="center" >👨🏻‍🎓Estudiante en ingenieria en sistemas y futuro desarrollador mobile🚀</h3>
+<!--<h3 align="center" >👨🏻‍🎓Estudiante en ingenieria en sistemas y futuro desarrollador mobile🚀</h3> -->
 
 
 <h3>Something about me / un poco sobre mi</h3>
@@ -23,11 +23,11 @@
 <p><b>Technologies:</b> Kotlin, Java, Python, C, C++, C#, HTML5, JS, JSON, React, PHP, MySQL and MongoDB</p>
 <p><b>Tools:</b> PyCharm, Intellij, Android Studio, WebStorm, VScode and Git based systems</p>
 <p><b>Relatable experinces:</b> Android custom roms testing experience(most of the case AOSP and MIUI based roms)</p>
-<p><b>Languages:</b> Native spanish speaker, english (conversational level (around b2-c1)), learning german and super basic french and italian</p>
+<p><b>Languages:</b> Native spanish speaker, english (conversational level (around b2-c1)), learning german and super basic french, japanese and italian</p>
 
 
 
 <div align="right">
-    <p>last updated: April 27th, 2023 at HMO 🤠</p>
+    <p>last updated: September 26th, 2023 at HMO 🤠</p>
 </div>
 
